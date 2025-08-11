@@ -1,4 +1,5 @@
-Financial Data Visualization – Power BI Project
+**Financial Data Visualization – Power BI Project**
+
 📌 Project Overview
 This project demonstrates data cleaning, analysis, and interactive visualizations using Power BI.
 The dataset contains financial data that has been processed to generate insights through various charts, KPIs, and dashboards.
